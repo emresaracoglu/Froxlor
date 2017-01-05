@@ -10,7 +10,7 @@
  * COPYING file online at http://files.froxlor.org/misc/COPYING.txt
  *
  * @copyright  (c) the authors
- * @author     Florian Lippert <flo@syscp.org>
+ * @author     Emre Saracoglu <hello@emresaracoglu.com>
  * @author     Froxlor Team <team@froxlor.org>
  * @license    GPLv2 http://files.froxlor.org/misc/COPYING.txt
  * @package    Language
@@ -21,29 +21,29 @@
  * Global
  */
 
-$lng['translator'] = '';
-$lng['panel']['edit'] = 'Edit';
-$lng['panel']['delete'] = 'Delete';
-$lng['panel']['create'] = 'Create';
-$lng['panel']['save'] = 'Save';
-$lng['panel']['yes'] = 'Yes';
-$lng['panel']['no'] = 'No';
+$lng['translator'] = 'Emre Saraçoğlu';
+$lng['panel']['edit'] = 'Düzenle';
+$lng['panel']['delete'] = 'Sil';
+$lng['panel']['create'] = 'Oluştur';
+$lng['panel']['save'] = 'Kaydet';
+$lng['panel']['yes'] = 'Evet';
+$lng['panel']['no'] = 'Hayır';
 $lng['panel']['emptyfornochanges'] = 'empty for no changes';
 $lng['panel']['emptyfordefault'] = 'empty for defaults';
 $lng['panel']['path'] = 'Path';
-$lng['panel']['toggle'] = 'Toggle';
-$lng['panel']['next'] = 'Next';
+$lng['panel']['toggle'] = 'Aç/Kapat';
+$lng['panel']['next'] = 'Devami';
 $lng['panel']['dirsmissing'] = 'Can not find or read the directory!';
 
 /**
  * Login
  */
 
-$lng['login']['username'] = 'Username';
-$lng['login']['password'] = 'Password';
-$lng['login']['language'] = 'Language';
-$lng['login']['login'] = 'Login';
-$lng['login']['logout'] = 'Logout';
+$lng['login']['username'] = 'Kullanici adi';
+$lng['login']['password'] = 'Şifre';
+$lng['login']['language'] = 'Lisan';
+$lng['login']['login'] = 'Giriş';
+$lng['login']['logout'] = 'Oturumu lapat';
 $lng['login']['profile_lng'] = 'Profile language';
 
 /**
